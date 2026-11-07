@@ -1,2 +1,2 @@
-# Frech-Jame-Rano
+# Frech-Jame-Riano
 problem set 2
